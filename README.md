@@ -1,14 +1,14 @@
-# Excel Homework: Kickstart My Chart
+# Excel: Kickstart My Chart
 
 ## Background
 
 Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
 
-Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. For this week's homework, you will organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
+Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. For this, you will organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
 
 ### Before You Begin
 
-1. Create a new space for this project called `excel-challenge` in either DropBox or Google Drive. **Do not add this homework to an existing space**.
+1. Create a new space for this project called `excel-challenge` in either DropBox or Google Drive.
 
 2. Store your excel workbooks in here and create a sharable link for submission.
 
@@ -124,7 +124,7 @@ For those looking for an additional challenge, you will evaluate the number of b
 
 ## Submission
 
-* To submit your homework, upload the solution and files to a GitHub repo, Dropbox, or Google Drive and submit the link to <https://bootcampspot.com/>.
+* Upload the solution and files to a GitHub repo, Dropbox, or Google Drive and submit the link to <https://bootcampspot.com/>.
 
 ## Employer-Ready Criteria
 
@@ -134,7 +134,7 @@ Students who are marked as employer-ready gain access to our employer referral p
 - A polished GitHub profile:
   - 3 - 6 pinned repositories ([instructions here](https://docs.github.com/en/enterprise/2.13/user/articles/pinning-items-to-your-profile))
   - at least 5 commits per repository
-  - professional titles, i.e. not "Homework #1"
+  - professional titles
   - thorough README.md files for each repository
   - clean code
 
